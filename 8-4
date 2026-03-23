@@ -1,0 +1,12 @@
+def peliharaan(nama,jenis):
+    print(f"saya memiliki hewan bernama {nama}, jenisnya {jenis}")
+
+def makanan(nama,makanan):
+    print(f"{nama} suka makan {makanan}")
+
+def umur(nama,umur):
+    print(f"umur {nama} sekarang {umur} tahun")
+
+peliharaan("Moso", "kucing")
+makanan("moso","ikan")
+umur("moso",1000)
